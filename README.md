@@ -5,11 +5,14 @@ There are two implementations, one that uses CPU and one that uses GPU (via CUDA
 
 ## Outputs
 * CPU fluid simulation
+
 ![CPU simulation](output/fluidSimulation.png)
 * [clickable video] GPU fluid simulation
+
 [![GPU simulation](output/fluid%20simulation%20cuda.png)](output/fluid%20simulation.mp4)
 * [clickable video] you can do cool projects like cloud simulation as well :)
-[![cloud](output/cloud.png)](output/cloud.mp4)
+
+* [![cloud](output/cloud.png)](output/cloud.mp4)
 
 ## Report
 detailed explanation is coming up soon!
