@@ -14,8 +14,11 @@ There are two implementations, one that uses CPU and one that uses GPU (via CUDA
 
 [![cloud](output/cloud.png)](output/cloud.mp4)
 
-## Report
-detailed explanation is coming up soon!
+## Reports
+* [Report](report/Report.pdf)
+* [Presentation](report/Presentation.pdf)
+
+
 
 ## Resources
 * Braley, Colin and Adrian Sandu. Fluid Simulation For Computer Graphics: A Tutorial in Grid Based and Particle Based Methods, 2009.
